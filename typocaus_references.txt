@@ -1,2 +1,6 @@
-ISO3	Reference	URL
+﻿ISO3	Reference	URL
 agr	Overall, James. 2007. A Grammar of Aguaruna. PhD thesis, La Trobe University Bundoora, Victoria, Australia.	https://researchonline.jcu.edu.au/28174/1/28174-overall-2007-thesis.pdf
+jup	Epps, Patience. 2008. A Grammar of Hup. Berlin: Mouton de Gruyter.
+eus	Hualde, José Ignacio & Ortiz de Urbina, Jon (eds.). 2003. A Grammar of Basque. Berlin: Mouton de Gruyter.
+ude	Nikolaeva, Irina & Maria Tolskaya. 2001. A Grammar of Udihe. Berlin: Mouton de Gruyter.
+arn	Smeets, Ineke. 2008. A Grammar of Mapuche. Mouton Grammar Library [MGL] 41. Berlin: De Gruyter Mouton.
