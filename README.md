@@ -7,4 +7,4 @@ Please cite the work as follows:
 
 Levshina, Natalia. 2013-2018. TypoCaus: a typological database of causative constructions. Leipzig University. https://github.com/levshina/TypoCaus
 
-
+I'm in the process uploading the data and writing up the documentation. Please contact me if you need the data urgently.
