@@ -3,5 +3,6 @@ agr	Overall, James. 2007. A Grammar of Aguaruna. PhD thesis, La Trobe University
 jup	Epps, Patience. 2008. A Grammar of Hup. Berlin: Mouton de Gruyter.
 eus	Hualde, José Ignacio & Ortiz de Urbina, Jon (eds.). 2003. A Grammar of Basque. Berlin: Mouton de Gruyter.
 ude	Nikolaeva, Irina & Maria Tolskaya. 2001. A Grammar of Udihe. Berlin: Mouton de Gruyter.
-arn	Smeets, Ineke. 2008. A Grammar of Mapuche. Mouton Grammar Library [MGL] 41. Berlin: De Gruyter Mouton.
-snf	Soukka, Maria. 2000. A descriptive grammar of Noon: a cangin language of Senegal. Lincom studies in African linguistics, 40. München: Lincom Europa.
+arn	Smeets, Ineke. 2008. A Grammar of Mapuche. (Mouton Grammar Library [MGL] 41.) Berlin: De Gruyter Mouton.
+snf	Soukka, Maria. 2000. A descriptive grammar of Noon: a cangin language of Senegal. (Lincom studies in African linguistics, 40.) München: Lincom Europa.
+wao	Thompson, Sandra A., Sung-Yul Park, Joseph  & Li, Charles N. 2006. A Reference Grammar of Wappo. (University of California Publications in Linguistics, 138.) Berkeley/Los Angeles: University of California Press. 
