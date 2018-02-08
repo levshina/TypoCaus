@@ -1,7 +1,7 @@
 # TypoCaus
 Typological database of causative constructions
 
-The data has been collected by Natalia Levshina (Catholique University of Louvain, F.R.S.-FNRS and later Leipzig University) since 2013.
+The data has been collected by Natalia Levshina (Catholic University of Louvain & F.R.S.-FNRS and later Leipzig University) since 2013.
 
 The file typocaus_main.txt contains the data in the tab-separated format. Each row corresponds to one causative construction or pattern in a language. The columns represent the ID of the construction, information about the language, description of the form, meaning, productivity, formal type (lexical, morphological or syntactic, and Haiman's 1983 types), as well as examples, their glosses and translations and references. For some languages there is also historical information about the origin of the constructions, as well as some notes about the marking of the core participants of the causative situation and other details.  
 
