@@ -7,3 +7,4 @@ arn	Smeets, Ineke. 2008. A Grammar of Mapuche. (Mouton Grammar Library [MGL] 41.
 snf	Soukka, Maria. 2000. A descriptive grammar of Noon: a cangin language of Senegal. (Lincom studies in African linguistics, 40.) München: Lincom Europa.
 wao	Thompson, Sandra A., Sung-Yul Park, Joseph  & Li, Charles N. 2006. A Reference Grammar of Wappo. (University of California Publications in Linguistics, 138.) Berkeley/Los Angeles: University of California Press. 
 yuz	van Gijn, Rik. 2006. A Grammar of Yurakare. PhD thesis. Nijmegen: Radboud Universiteit.	http://webdoc.ubn.ru.nl/mono/g/gijn_e_van/gramofyu.pdf
+kzh	Abdel-Hafiz, Ahmed Sokarno. 1988. A Reference Grammar of Kunuz Nubian. State University of New York at Buffalo doctoral dissertation.
