@@ -1,14 +1,52 @@
 ISO 639-3	Reference	URL
 agr	Overall, James. 2007. A Grammar of Aguaruna. PhD thesis, La Trobe University Bundoora, Victoria, Australia.	https://researchonline.jcu.edu.au/28174/1/28174-overall-2007-thesis.pdf
-jup	Epps, Patience. 2008. A Grammar of Hup. Berlin: Mouton de Gruyter.
-eus	Hualde, José Ignacio & Ortiz de Urbina, Jon (eds.). 2003. A Grammar of Basque. Berlin: Mouton de Gruyter.
-ude	Nikolaeva, Irina & Tolskaya, Maria. 2001. A Grammar of Udihe. Berlin: Mouton de Gruyter.
-arn	Smeets, Ineke. 2008. A Grammar of Mapuche. (Mouton Grammar Library [MGL] 41.) Berlin: De Gruyter Mouton.
-snf	Soukka, Maria. 2000. A descriptive grammar of Noon: a cangin language of Senegal. (Lincom studies in African linguistics, 40.) München: Lincom Europa.
-wao	Thompson, Sandra A., Sung-Yul Park, Joseph  & Li, Charles N. 2006. A Reference Grammar of Wappo. (University of California Publications in Linguistics, 138.) Berkeley/Los Angeles: University of California Press. 
+jup	Epps, Patience. 2008. A Grammar of Hup. Berlin: Mouton de Gruyter.	NA
+eus	Hualde, José Ignacio & Ortiz de Urbina, Jon (eds.). 2003. A Grammar of Basque. Berlin: Mouton de Gruyter.	NA
+ude	Nikolaeva, Irina & Tolskaya, Maria. 2001. A Grammar of Udihe. Berlin: Mouton de Gruyter.	NA
+arn	Smeets, Ineke. 2008. A Grammar of Mapuche. (Mouton Grammar Library [MGL] 41.) Berlin: De Gruyter Mouton.	NA
+snf	Soukka, Maria. 2000. A descriptive grammar of Noon: a cangin language of Senegal. (Lincom studies in African linguistics, 40.) München: Lincom Europa.	NA
+wao	Thompson, Sandra A., Sung-Yul Park, Joseph  & Li, Charles N. 2006. A Reference Grammar of Wappo. (University of California Publications in Linguistics, 138.) Berkeley/Los Angeles: University of California Press.	NA 
 yuz	van Gijn, Rik. 2006. A Grammar of Yurakare. PhD thesis. Nijmegen: Radboud Universiteit.	http://webdoc.ubn.ru.nl/mono/g/gijn_e_van/gramofyu.pdf
-xnz	Abdel-Hafiz, Ahmed Sokarno. 1988. A Reference Grammar of Kunuz Nubian. State University of New York at Buffalo doctoral dissertation.
-mhi	Blackings, Mairi John & Fabb, Nigel. 2003. A grammar of Ma'di. (Mouton Grammar Library [MGL] 32.) Berlin: De Gruyter. 
+xnz	Abdel-Hafiz, Ahmed Sokarno. 1988. A Reference Grammar of Kunuz Nubian. State University of New York at Buffalo doctoral dissertation.	NA
+mhi	Blackings, Mairi John & Fabb, Nigel. 2003. A grammar of Ma'di. (Mouton Grammar Library [MGL] 32.) Berlin: De Gruyter.	NA
 guk	Ahland, Colleen Anne. 2012. A Grammar of Northern and Southern Gumuz. University of Oregon doctoral dissertation.	https://scholarsbank.uoregon.edu/xmlui/handle/1794/12559
-naq	Hagman, Roy S. 1977. Nama Hottentot Grammar (Indiana University Publications: Language Science Monographs 15). Bloomington: Indiana University.
+naq	Hagman, Roy S. 1977. Nama Hottentot Grammar (Indiana University Publications: Language Science Monographs 15). Bloomington: Indiana University.	NA
 ikx	Schrock, Terrill. 2014. A grammar of Ik (Icé-tód): Northeast Uganda's last thriving Kuliak language. Rijksuniversiteit te Leiden doctoral dissertation.	https://openaccess.leidenuniv.nl/handle/1887/30201
+sad	Eaton, Helen. 2010. A Sandawe Grammar (SIL e-Books 20). SIL International.	https://www.sil.org/resources/publications/entry/9273
+dif	Austin, Peter. 1981. A Grammar of Diyari, South Australia (Cambridge Studies in Linguistics 32). Cambridge University Press.	NA
+gyd	Evans, Nicholas D. 1995. A Grammar of Kayardild: With Historical-Comparative Notes on Tangkic (Mouton Grammar Library 15). Berlin: Mouton de Gruyter.	NA
+ain	Tamura, Suzuko. 2000. The Ainu language (ICHEL Linguistic Studies 2). Tokyo: Sanseido.	NA
+and	Haan, Johnson Welem. 2001. The Grammar of Adang: A Papuan Language Spoken on the Island of Alor East Nusa Tenggara - Indonesia. University of Sydney doctoral dissertation.	NA 
+apn	Oliveira, Christiane Cunha. 2005. The language of the Apinajé people of central Brazil. University of Eugene doctoral dissertation.	NA
+arr	Gabas, Nilson. 1999. A grammar of Karo, Tupi (Brazil). University of Santa Barbara doctoral dissertation.	NA
+atr	Bruno, Ana Carla. 2003. Waimiri Atroari Grammar: Some Phonological, Morphological, and Syntactic Aspects. University of Arizona doctoral dissertation.	NA
+bis	Crowley, Terry. 2004. Bislama Reference Grammar.	https://www.jstor.org/stable/pdf/20006778.pdf
+cad	Melnar, Lynette R. 2004. Caddo Verb Morphology. University of Chicago doctoral dissertation.	NA
+cas	Sakel, Jeanette. 2004. A Grammar of Mosetén (Mouton Grammar Library 33). Berlin: Mouton de Gruyter.	NA
+cav	Guillaume, Antoine. 2008. A grammar of Cavineña (Mouton Grammar Library 44). Berlin: Mouton de Gruyter.	NA
+chr	Montgomery-Anderson, Brad. 2008. A Reference Grammar of Oklahoma Cherokee. University of Kansas doctoral dissertation.	NA
+cid	Jany, Carmen. 2009. Chimariko Grammar: Areal and Typological Perspective (University of California Publications in Linguistics 142). Berkeley and Los Angeles: University of California Press.	NA
+css	Okrand, Marc. 1977. Mutsun grammar. University of Berkeley doctoral dissertation.	NA
+fao	Thráinsson (Þráinsson), Höskuldur, Hjalmar P. Petersen, Jógvan í Lon Jacobsen, Zakaris Svabo Hansen. 2004. Faroese. An Overview and Reference Grammar. Tórshavn.	NA
+hau	Newman, Paul. 2000. The Hausa Language: An Encyclopedic Reference Grammar. New Haven and London: Yale University Press.	NA
+kat	Hewitt, B. George. 1995. Georgian: a structural reference grammar. Amsterdam: John Benjamins.	NA
+kgg	Watters, David E. 2006. Notes on Kusunda grammar: a language isolate of Nepal (Himalayan Linguistics Archive 3). Kathmandu: National Foundation for the Development of Indigenous Nationalities.	NA
+kos	Lee, Kee-Dong. 1975. Kusaiean Reference Grammar. Honolulu: The University Press of Hawaii.	NA
+kpv	Kalinina, Elena, Dmitriy Kolomatskiy & Alexandra Sudobina. 2006. Transitivity increase markers interacting with verb semantics: evidence from Finno-Ugric languages. In Leonid Kulikov, Andrej Malchukov & Peter de Swart, eds. Case, Valency and Transitivity. Amsterdam: John Benjamins, 441–463.	NA
+lhu	Matisoff, James A. 1976. Lahu Causative Constructions: Case Hierarchies and the Morphology/syntax Cycle in a Tibeto-Burman Perspective. In Masayoshi Shibatani (ed.), The Grammar of Causative Constructions, 413-42. New York: Academic Press.	NA
+lkt	Ingham, Bruce. 2003. Lakota (Languages of the World: Materials 426). München: Lincom.	NA
+mle	Aikhenvald, Alexandra Y. (2008) The Manambu language of East Sepik, Papua New Guinea. Oxford University Press.	NA
+moc	Gualdieri, Cecilia Beatriz. (1998) Mocovi (Guaicuru): fonologia e morfossintaxe. University of Campinas doctoral dissertation.	NA
+moc	Carrió, Cintia Valeria. 2015. Construcciones causativas y anticausativas en Mocoví. LIAMES 15(1): 69-89.	NA
+niv	Nedjalkov, Vladimir P. & Galina A. Otaina. 2013. A Syntax of the Nivkh Language: The Amur dialect (Studies in Language Companion Series 139). Amsterdam: John Benjamins.	NA
+pao	Thornes, Timothy Jon. 2003. A northern Paiute grammar with texts. University of Eugene doctoral dissertation.	NA
+skv	Donohue, Mark. 2005. Draft Forthcoming Skou Reference Grammar. Ms.	NA
+tfr	Quesada, J. Diego. 2000. A Grammar of Teribe (LINCOM Studies in Native American Linguistics 36). München: Lincom.	NA
+tkl	Sapir, Edward. 1990. Takelma Texts and Grammar (The Collected Works of Edward Sapir VIII). Berlin: Mouton de Gruyter.	NA
+tlp	McFarland, Teresa Ann. 2009. The phonology and morphology of Filomeno Mata Totonac. University of California, Berkeley doctoral dissertation.	NA
+tpy	Thornes, Timothy Jon. 2003. A northern Paiute grammar with texts. University of Eugene doctoral dissertation.	NA
+tsj	Aikhenvald, Alexandra Y. 2008. The Manambu language of East Sepik, Papua New Guinea. Oxford University Press.	NA
+tvo	Staden, Miriam van. 2000. Tidore: A Linguistic Description of a Language of the North Moluccas. Rijksuniversiteit te Leiden doctoral dissertation.	NA
+ura	Olawsky, Knut. 2006. A Grammar of Urarina (Mouton Grammar Library 37). Berlin: Mouton de Gruyter.	NA
+yee	Foley, William. 1991. The Yimas Language of New Guinea. Stanford: Stanford University Press.	NA
+yux	Maslova, Elena. 2003. A Grammar of Kolyma Yukaghir (Mouton Grammar Library 27). Berlin: Mouton de Gruyter.	NA
