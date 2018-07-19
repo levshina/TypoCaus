@@ -50,3 +50,4 @@ tvo	Staden, Miriam van. 2000. Tidore: A Linguistic Description of a Language of 
 ura	Olawsky, Knut. 2006. A Grammar of Urarina (Mouton Grammar Library 37). Berlin: Mouton de Gruyter.	NA
 yee	Foley, William. 1991. The Yimas Language of New Guinea. Stanford: Stanford University Press.	NA
 yux	Maslova, Elena. 2003. A Grammar of Kolyma Yukaghir (Mouton Grammar Library 27). Berlin: Mouton de Gruyter.	NA
+lit	Ambrazas, Vitautas (ed.). 1997. Lithuanian Grammar. Vilnius: Baltos Lankos.	NA 
