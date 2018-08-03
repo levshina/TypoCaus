@@ -35,8 +35,8 @@ kos	Lee, Kee-Dong. 1975. Kusaiean Reference Grammar. Honolulu: The University Pr
 kpv	Kalinina, Elena, Dmitriy Kolomatskiy & Alexandra Sudobina. 2006. Transitivity increase markers interacting with verb semantics: evidence from Finno-Ugric languages. In Leonid Kulikov, Andrej Malchukov & Peter de Swart, eds. Case, Valency and Transitivity. Amsterdam: John Benjamins, 441–463.	NA
 lhu	Matisoff, James A. 1976. Lahu Causative Constructions: Case Hierarchies and the Morphology/syntax Cycle in a Tibeto-Burman Perspective. In Masayoshi Shibatani (ed.), The Grammar of Causative Constructions, 413-42. New York: Academic Press.	NA
 lkt	Ingham, Bruce. 2003. Lakota (Languages of the World: Materials 426). München: Lincom.	NA
-mle	Aikhenvald, Alexandra Y. (2008) The Manambu language of East Sepik, Papua New Guinea. Oxford University Press.	NA
-moc	Gualdieri, Cecilia Beatriz. (1998) Mocovi (Guaicuru): fonologia e morfossintaxe. University of Campinas doctoral dissertation.	NA
+mle	Aikhenvald, Alexandra Y. 2008. The Manambu language of East Sepik, Papua New Guinea. Oxford University Press.	NA
+moc	Gualdieri, Cecilia Beatriz. 1998. Mocovi (Guaicuru): fonologia e morfossintaxe. University of Campinas doctoral dissertation.	NA
 moc	Carrió, Cintia Valeria. 2015. Construcciones causativas y anticausativas en Mocoví. LIAMES 15(1): 69-89.	NA
 niv	Nedjalkov, Vladimir P. & Galina A. Otaina. 2013. A Syntax of the Nivkh Language: The Amur dialect (Studies in Language Companion Series 139). Amsterdam: John Benjamins.	NA
 pao	Thornes, Timothy Jon. 2003. A northern Paiute grammar with texts. University of Eugene doctoral dissertation.	NA
@@ -51,3 +51,9 @@ ura	Olawsky, Knut. 2006. A Grammar of Urarina (Mouton Grammar Library 37). Ber
 yee	Foley, William. 1991. The Yimas Language of New Guinea. Stanford: Stanford University Press.	NA
 yux	Maslova, Elena. 2003. A Grammar of Kolyma Yukaghir (Mouton Grammar Library 27). Berlin: Mouton de Gruyter.	NA
 lit	Ambrazas, Vitautas (ed.). 1997. Lithuanian Grammar. Vilnius: Baltos Lankos.	NA 
+rus	Levshina, Natalia. 2015. Levshina, Natalia. 2015. European analytic causatives as a comparative concept. Evidence from a parallel corpus of film subtitles. Folia Linguistica 49(2): 487-520.	NA
+rus	von Waldenfels, Ruprecht. 2012. The Grammaticalization of 'Give' + Infinitive. Berlin: De Gruyer Mouton.	NA
+rus	Letuchij, Alexander B. 2006. Labilnost' v russkom jazyke: slučajnost' ili zakonomernost'? [Lability in Russian: An exception or a rule?] Proceedings of the International Conference "Dialogue 2006". Ed. by N.I. Laufer, A.S. Narinjani & V. P. Selegej, 343-347.	http://www.dialog-21.ru/digests/dialog2006/materials/html/Letuchy.htm
+abk	Hewitt, B.G. 1979. Abkhaz [Lingua Descriptive Studies]. Amsterdam: North Holland.	NA
+alw	Schneider-Blum, Gertrud. 2007. A grammar of Alaaba, a Highland East Cushitic language of Ethiopia. (Cushitic language studies (Kuschitische Sprachstudien), 25.) Köln: Cologne: Rüdiger Köppe Verlag.	NA 
+tms	Alamin Mubarak, Suzan. 2009. Tima Word Structure (Noun and Verb). Doctoral dissertation, University of Khartoum.	NA
