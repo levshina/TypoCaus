@@ -57,3 +57,24 @@ rus	Letuchij, Alexander B. 2006. Labilnost' v russkom jazyke: slučajnost' ili z
 abk	Hewitt, B.G. 1979. Abkhaz [Lingua Descriptive Studies]. Amsterdam: North Holland.	NA
 alw	Schneider-Blum, Gertrud. 2007. A grammar of Alaaba, a Highland East Cushitic language of Ethiopia. (Cushitic language studies (Kuschitische Sprachstudien), 25.) Köln: Cologne: Rüdiger Köppe Verlag.	NA 
 tms	Alamin Mubarak, Suzan. 2009. Tima Word Structure (Noun and Verb). Doctoral dissertation, University of Khartoum.	NA
+bqj	Bassene, Alain-Christian. 2007. Morphosyntaxe du Jóola Banjal. Langue atlantique du Sénégal. Köln: Rüdiger Köppe Verlag.	NA
+lao	Enfield, N. J. 2007. A Grammar of Lao. Berlin: Mouton de Gruyter.	NA
+mtj	Gravelle, Gloria. 2010. A Grammar of Moskona: An East Bird's Head Language of West Papua, Indonesia. Amsterdam: Vrije Universiteit doctoral dissertation.	https://glottolog.org/resource/reference/id/125148
+kor	Patterson, Betty Soon Ju. 1974. A study of Korean causatives. University of Hawai‘i at Mānoa MA thesis.	NA 
+hin	Saxena, Anuradha. 1982. Contact in causation. Language 58: 820-831. 	NA
+kla	Kulikov, Leonid. 1993. The second causative: A typological sketch. In: Bernard Comrie and Maria Polinsky (eds.), Causatives and Transitivity, 121-154. Amsterdam: Benjamins.	NA
+tur	Zimmer, Karl. 1976. Some constraints on Turkish causativisation. In: Masyoshi Shibatani (ed.), Syntax and semantics 6: The grammar of causative constructions, 339-412. New York: Academic Press. 	NA
+dto	Plungian, Vladimir A. 1993. Three causatives in Dogon and the overlapping of causative and passive markers. In: Bernard Comrie and Maria Polinsky (eds.), Causatives and Transitivity, 391-396. Amsterdam: Benjamins.	NA
+Mixtec	Hinton, Leanne. 1982. How to cause in Mixtec. In: Proceedings of the 8th Annual Meeting of the Berkeley Linguistics Society, 354-363.	NA 
+huz	Aikhenvald, Alexandra Y. 2011. Causatives which do not cause: Non-valency-increasing effects of a valency-increasing derivation. In: A.Y. Aikhenvald and R.M.W. Dixon, Language at Large: Essays on Syntax and Semantics, 86-142. Leiden: Brill	NA 
+gae	Aikhenvald, Alexandra Y. 2011. Causatives which do not cause: Non-valency-increasing effects of a valency-increasing derivation. In: A.Y. Aikhenvald and R.M.W. Dixon, Language at Large: Essays on Syntax and Semantics, 86-142.Leiden: Brill	NA
+tet	Williams-van Klinken, Catharina, John Hajek and Rachel Nordlinger. 2002. Tetun Dili: a grammar of an East Timorese language. (Pacific Linguistics, 528.) Canberra: Australian National University.	NA
+hsf	Kondic, Ana. 2014. A grammar of South Eastern Huastec, a Mayan language from Mexico. PhD dissertation. University of Sydney.	NA
+per	Nodoushan, Mohammad A. S., and Gholamreza M. Ghomshei. 2014. Iconicity of cohesion in Persian causative constructions. Linguistik Online 68(6).	https://bop.unibe.ch/linguistik-online/article/view/1637
+fra	Achard, Michel. 1993b. Causative structures in French: Word order following faire, laisser, and forcer, in Proceedings of the Nineteenth Annual Meeting of the Berkeley Linguistics Society, Berkeley: University of California, Berkeley, 1–12.	NA
+
+
+
+
+
+
